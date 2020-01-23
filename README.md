@@ -5,3 +5,5 @@
 ## New concepts learned
 * Using named exports convention { App }
 * react-icons
+* BEM (Block, Element, Modifier)
+* firebase.js

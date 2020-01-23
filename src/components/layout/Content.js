@@ -3,6 +3,6 @@ import { Sidebar } from "./Sidebar";
 
 export const Content = () => (
   <section>
-    <Sidebar />;
+    <Sidebar />
   </section>
 );
